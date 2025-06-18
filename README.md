@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm PolSent </h1>
-<h3 align="center">Student at UTP, Chiclayo🌟.</h3>
+<h1 align="center">Hi 👋, I'm PolSent </h1>>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ThePolSentw&label=Profile%20views&color=0e75b6&style=flat"
